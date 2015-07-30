@@ -36,8 +36,10 @@
     "cli": "^0.6.6",
     "colors": "^1.1.0",
     "commander": "^2.8.1",
+    "config": "^1.15.0",
     "csv-parse": "^0.1.1",
     "debug": "^2.2.0",
+    "json-templater": "^1.0.1",
     "lodash": "^3.9.1",
     "minigun-core": "0.0.8"
   },
