@@ -41,7 +41,7 @@
     "debug": "^2.2.0",
     "json-templater": "^1.0.1",
     "lodash": "^3.9.1",
-    "minigun-core": "0.0.8"
+    "minigun-core": "git@github.com:gajjargaurav/minigun-core.git"
   },
   "devDependencies": {
     "eslint": "^0.21.2",
